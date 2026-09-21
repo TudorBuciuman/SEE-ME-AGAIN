@@ -4,12 +4,12 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
     [Header("Movement")]
-    private float moveSpeed = 25f;
+    private float moveSpeed = 19f;
     private float jumpHeight = 100f;
 
     [Header("Running")]
     public bool Running_allowed = true;
-    private float runSpeedMultiplier = 2.2f;
+    private float runSpeedMultiplier = 1.6f;
     private bool isRunning = false;
 
     private CharacterController controller;

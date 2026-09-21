@@ -4,5 +4,33 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0450a54f77e3f4b4e8a56aba657b5cb1
+  - enabled: 1
+    path: Assets/Scenes/Devil's Checkmate.unity
+    guid: 1a7b66de3a8707544ab2087026ccdaa4
+  - enabled: 1
+    path: Assets/Scenes/My Beautiful Fantasy.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: 8b18e7e4d008d5f468e9260492d51ec2
+  - enabled: 1
+    path: Assets/Scenes/Insanity chess.unity
+    guid: 1d3ca256e2af8734098e65fe29db7b8c
+  - enabled: 1
+    path: Assets/Scenes/RetroGrafx-16.unity
+    guid: 9665001bcde9b6244bcbcda017d8faef
+  - enabled: 1
+    path: Assets/Scenes/Man across the sea.unity
+    guid: 343766f1b7ddda5459e30de486ea1292
+  - enabled: 1
+    path: Assets/Scenes/Up from the ashes.unity
+    guid: 4662d042b08f7fd4a92b7f11c9bbb979
+  - enabled: 1
+    path: Assets/Scenes/Never see me again.unity
+    guid: 60f45d94a9fbba849860843b65b07f99
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

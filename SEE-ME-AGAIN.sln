@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C99630DF-2944-8F92-22E6-0FA72DA3FBF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.editor", "sc.terrain.painter.editor.csproj", "{C9606E6F-2CEB-F594-4294-D2FD3B82C971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.runtime", "sc.terrain.painter.runtime.csproj", "{AA633CF5-5CB3-62C1-4102-575CD5E2E491}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{C99630DF-2944-8F92-22E6-0FA72DA3FBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C99630DF-2944-8F92-22E6-0FA72DA3FBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C99630DF-2944-8F92-22E6-0FA72DA3FBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9606E6F-2CEB-F594-4294-D2FD3B82C971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9606E6F-2CEB-F594-4294-D2FD3B82C971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9606E6F-2CEB-F594-4294-D2FD3B82C971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9606E6F-2CEB-F594-4294-D2FD3B82C971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA633CF5-5CB3-62C1-4102-575CD5E2E491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA633CF5-5CB3-62C1-4102-575CD5E2E491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA633CF5-5CB3-62C1-4102-575CD5E2E491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA633CF5-5CB3-62C1-4102-575CD5E2E491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
