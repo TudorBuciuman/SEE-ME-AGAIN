@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Game Manager.cs" />
     <Compile Include="Assets\Scripts\SaveSystem.cs" />
     <Compile Include="Assets\Scripts\Devils Checkmate.cs" />
+    <Compile Include="Assets\Games\TurboGrafx-16\CRT\IdiotequeCRTFlicker.cs" />
     <Compile Include="Assets\Scripts\CameraZoom.cs" />
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Games\CloudNoiseBaker.cs" />
@@ -105,6 +106,7 @@
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\ProceduralTerrainPainter\Shaders\Noise.hlsl" />
+    <None Include="Assets\Games\TurboGrafx-16\CRT\CRT_IdiotequeScreen_URP.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Games\VolumetricClouds.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />

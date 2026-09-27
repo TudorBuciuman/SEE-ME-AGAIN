@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1308996760437083641
+--- !u!114 &-90352274506181184
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,9 +20,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Robbers_T3ANI210_TellerDesk_Abdilla Variant 1
+  m_Name: model_2 Variant
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: -4970860745202129127, guid: eced58b84c34028449ec07b933d85507, type: 3}
+  m_Parent: {fileID: -3033667219593020291, guid: 4f01f90cd77dfe24daa102b91e0e8fc9, type: 3}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -38,16 +38,17 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: e333897398b0be742934d41b8071fe05, type: 3}
+        m_Texture: {fileID: 2800000, guid: 35f4a3f6e8c6fa54d928d4e4a06901b1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: e333897398b0be742934d41b8071fe05, type: 3}
+        m_Texture: {fileID: 2800000, guid: 35f4a3f6e8c6fa54d928d4e4a06901b1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Metallic: 0
-    - _Smoothness: 0.486
-    m_Colors: []
+    - _Smoothness: 0.365
+    m_Colors:
+    - _BaseColor: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 1}
+    - _Color: {r: 0.5566037, g: 0.5566037, b: 0.5566037, a: 1}
   m_BuildTextureStacks: []

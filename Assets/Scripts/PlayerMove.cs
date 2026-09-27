@@ -4,7 +4,7 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
     [Header("Movement")]
-    private float moveSpeed = 19f;
+    private float moveSpeed = 10f;
     private float jumpHeight = 100f;
 
     [Header("Running")]
