@@ -27,6 +27,11 @@ Can you clap your hands?
 <br><br><br><br>
 <br><br>
 
+<p align="center">
+  <picture>
+    <img src="https://img.itch.zone/aW1hZ2UvNTA2OTYzNy8zMDM0OTU5NC5wbmc=/794x1000/PGuB%2Bg.png" width="100%" draggable="false" />
+  </picture>
+</p>
 
 # Description
 A Unity project built around disappearance, return, and the conflict between who we were and who we eventually become.
